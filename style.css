@@ -1,0 +1,110 @@
+/* PALETA DE COLOR
+VERDE OSCURO: #015238
+VERDE CLARO: #7DA287
+VERDE MUY CLARO: #BCCAAE
+BEIGE: #F5EFD2
+NARANJA: #F1C27B
+*/
+
+/*PAGINA 1*/
+/*Navigation*/
+.navbar {
+    background-color: #F5EFD2;
+}
+
+/*Hero*/
+body, html {
+    height: 100%;
+}
+
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), url(img_banner1.png));
+}
+
+/*Boton cotizar principal*/
+#botonprincipal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #F5EFD2;
+}
+
+/*Sitios paradisiacos, cards*/
+.card-body .btn{
+    background-color: #015238;
+    color: #F5EFD2;
+}
+.card-body .btn:hover{
+    background-color: #F5EFD2;
+    color: #015238;
+}
+
+/*Lista*/
+.lista {
+    display: flex;
+    justify-content: center;
+}
+
+a:link {
+    color: #015238;
+}
+
+a:hover {
+    color: #BCCAAE;
+}
+
+/*Contacto*/
+.dato {
+    display: flex;
+    justify-content: center;
+}
+
+/*Horarios*/
+.horarios {
+    display: flex;
+    justify-content: center;
+}
+
+/*Footer*/
+footer {
+    color: #F5EFD2;
+    background-color: #015238;
+}
+
+/* PAGINA 3 */
+/* Estilo del formulario */
+#cotizaciones-form{
+    background-color: white;
+    font-size: 16px;
+    display: block;
+    padding: 20px;
+    margin: 80px 90px;
+    width: 100;
+    border-radius: 10px;
+    border: 1px solid #015238;
+}
+.pag3-title{
+    margin-top: 45px;
+    margin-bottom: 45px;
+    font-size: 30px;
+    color: #015238;
+    text-align: center;
+}
+
+#formulario-cotizar .row {
+    margin: 20px 0;
+}
+
+/* Boton */
+.btn-formulario .btn {
+    width: 25%;
+    margin: 10px 340px;
+    background: #fff;
+    color: #015238;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+.btn-formulario .btn:hover {
+    background-color: #015238;
+} 
