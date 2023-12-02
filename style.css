@@ -12,6 +12,10 @@ NARANJA: #F1C27B
     background-color: #F5EFD2;
 }
 
+.hidden{
+    display: none;
+}
+
 /*Hero*/
 body, html {
     height: 100%;
