@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15161086046347, -83.74030092219999
+        ]
+      },
+      "properties": {
+        "name": "Uvita Beach",
+        "category": "Beach",
+        "description": "Uvita Beach is a beautiful beach located in Costa Rica. It is known for its stunning scenery and clear waters.",
+        "website": "https://www.entercostarica.com/destinations/south-pacific/uvita",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMqwYJsdTYdDLNuuDe1Q1jxguFwVKk0LlUy_WOc=w408-h269-k-no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.156328917795197, -83.75461141911893
+        ]
+      },
+      "properties": {
+        "name": "Marino Ballena National Park",
+        "category": "National Park",
+        "website": "https://www.sinac.go.cr/ES/ac/acosa/pnmb/Paginas/default.aspx",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN9UBbiIiJXT-pc3I0Xy5dw-91mGLKox4FhAqR_=w426-h240-k-no",
+        "description": "Protected marine area with tropical vegetation & a long beach known for whale & dolphin spotting."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.276530434515768, -83.81927184326807
+        ]
+      },
+      "properties": {
+        "name": "Nauyaca Waterfalls",
+        "category": "Waterfall",
+        "website": "https://www.nauyacawaterfall.com/",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMHc18U_X5HEVdu2xhMKSF_AwHi_HfEhqHH_0vK=w408-h446-k-no",
+        "description": "Series of waterfalls, reached by a steep trail, in a scenic, rocky locale with swimming areas."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2209172046377, -83.82314160377702
+        ]
+      },
+      "properties": {
+        "name": "Alturas Wildlife Sanctuary",
+        "category": "Wildlife Sanctuary",
+        "website": "https://www.alturaswildlifesanctuary.org/",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNzTojkHK8oUIgzC_MTHQqjgVTuwewecOEGMkQn=w408-h272-k-no",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.183732817863225, -83.77061116878056
+        ]
+      },
+      "properties": {
+        "name": "Playa Hermosa",
+        "category": "Beach",
+        "website": "",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNcSGJYyrcZ_0JJGyVHtMvUpxx0Np2xdPY7zVLr=w408-h306-k-no",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.254422912732302, -83.87020835517174
+        ]
+      },
+      "properties": {
+        "name": "Dominical Beach",
+        "category": "Beach",
+        "website": "https://en.wikipedia.org/wiki/Dominical,_Puntarenas",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNhFpnnOqbY6G9ZLUwWHWSdhG22nVwMGmoNguJO=w408-h306-k-no",
+        "description": "Chill, stone-&-sand beach featuring surfing, walking & scenic views, plus local vendors & eateries."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.087473700671097, -83.6200214752721
+        ]
+      },
+      "properties": {
+        "name": "Cascada Pavon",
+        "category": "Waterfall",
+        "website": "https://www.gobiernolocalosa.go.cr/turismo/info.php?item=80",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNjPVmHIskmXbXp-X19qOXXm3vDrQ5-T1VsWjBB=w408-h544-k-no",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.289966898685865, -83.87955270229848
+        ]
+      },
+      "properties": {
+        "name": "Hacienda Baru Wildlife Refuge",
+        "category": "Wildlife Refuge",
+        "website": "",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOUJAfG4rjl9bYmSnfz4h3PoPavIQrhhoKl6t_l=w426-h240-k-no",
+        "description": "Casual hotel amid a 135-hectare wildlife refuge, offering open-air dining & game trails."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.130457702033993, -83.71511360377748
+        ]
+      },
+      "properties": {
+        "name": "Playa Arco",
+        "category": "Beach",
+        "website": "",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNyieGglp3wjlc8EjqQCrNljp09E6PuoGAnVmzw=w408-h272-k-no",
+        "description": "Secluded beach within Marino Ballena National Park, accessible by hike & featuring a waterfall."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.104757935300066, -83.68776463675857
+        ]
+      },
+      "properties": {
+        "name": "Playa Pinuela",
+        "category": "Beach",
+        "website": "https://goplaya.cr/en/playa/piuelas",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPyc4SZtZFN9cBBDPiPRrRjUQmNKyuAuHdQGk93=w408-h306-k-no",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.146802162745884, -83.76157548229011
+        ]
+      },
+      "properties": {
+        "name": "Punta Uvita",
+        "category": "Beach",
+        "website": "https://drinkteatravel.com/punta-uvita-costa-rica/",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMxD9n4bJyyWi6fxLHkS3hJX_7i_CqA2IB9eZTX=w408-h306-k-no",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.231316795473338, -83.8417338903248
+        ]
+      },
+      "properties": {
+        "name": "Playa Dominicalito",
+        "category": "Beach",
+        "website": "",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM3pBG2wG_eJxK0D2cgkaSbPyYwAeUddZtZSWmL=w426-h240-k-no",
+        "description": "This small sandy beach popular with beginner surfers also offers fishing, swimming & scenic views."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.286155919773675, -83.82030574056672
+        ]
+      },
+      "properties": {
+        "name": "Parque Reptilandia",
+        "category": "Wildlife Park",
+        "website": "https://www.expedia.com/es/Parque-Reptilandia-Baru.d553248621532964502.Guia-Turistica",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPcHAn1D8oDPm4FmksFLrz-mt1RhIECfK_iNrwv=w408-h306-k-no",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.184742079201751, -83.75911469201728
+        ]
+      },
+      "properties": {
+        "name": "Rancho La Merced National Wildlife Refuge",
+        "category": "Wildlife Refuge",
+        "website": "https://www.booking.com/hotel/cr/cabina-rancho-la-merced.es.html",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPI-TcCVwoSN4OSr1Hk9jYijNyTskXgyaenYQpY=w408-h271-k-no",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.147732900039182, -83.73135972461922
+        ]
+      },
+      "properties": {
+        "name": "Playa Colonia",
+        "category": "Beach",
+        "website": "https://www.vrbo.com/vacation-rentals/costa-rica/puntarenas-province/uvita/playa-colonia",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNbJfK0EwqekCTxaqvFFDtFNB7TDDamhCV5lx0u=w408-h306-k-no",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.154001834916121, -83.73805627494198
+        ]
+      },
+      "properties": {
+        "name": "The Flutterby House Hostel",
+        "category": "Hostel",
+        "website": "https://www.booking.com/hotel/cr/flutterby-house-uvita.html",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNzWSkd-UN0e1lTTZtzG3aSaequCtddQpaWPOM=w408-h306-k-no",
+        "description": "Simple quarters in an unpretentious hostel featuring a restaurant & a bar, plus a shared kitchen."
+      }
+    }
+  ]
+}
