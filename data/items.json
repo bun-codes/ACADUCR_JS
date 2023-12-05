@@ -1,0 +1,64 @@
+{
+    "items" : [
+        {
+            "name": "Backpacks",
+            "price": 15,
+            "quantity": 10,
+            "image": "blackpack.png"
+        },
+        {
+            "name": "Waterproof backpacks",
+            "price": 25,
+            "quantity": 20,
+            "image": "waterproof_blackpack.png"
+        },
+        {
+            "name": "Waterproof coats",
+            "price": 12,
+            "quantity": 10,
+            "image": "waterproof_coat.jpg"
+        },
+        {
+            "name": "Reusable water bottle",
+            "price": 8,
+            "quantity": 30,
+            "image": "reusable_water_bottle.jpg"
+        },
+        {
+            "name": "Eco-friendly bags",
+            "price": 5,
+            "quantity": 50,
+            "image": "eco_friend_bag.webp"
+        },
+        {
+            "name": "Hats",
+            "price": 5,
+            "quantity": 80,
+            "image": "hat.jpg"
+        },
+        {
+            "name": "Shirts",
+            "price": 8,
+            "quantity": 30,
+            "image": "shirt.jpg"
+        },
+        {
+            "name": "Basic camping tents",
+            "price": 25,
+            "quantity": 8,
+            "image": "basic_camping_tent.jpg"
+        },
+        {
+            "name": "Pro camping tents",
+            "price": 45,
+            "quantity": 10,
+            "image": "pro_camping_tents.jpg"
+        },
+        {
+            "name": "Padlocks",
+            "price": 3,
+            "quantity": 80,
+            "image": "padlocks.jpg"
+        }
+    ]
+}

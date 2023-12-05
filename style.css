@@ -1,12 +1,12 @@
-/* PALETA DE COLOR
-VERDE OSCURO: #015238
-VERDE CLARO: #7DA287
-VERDE MUY CLARO: #BCCAAE
+/* COLOR PALETTE
+DARK GREEN: #015238
+LIGHT GREEN: #7DA287
+VERY LIGHT GREEN: #BCCAAE
 BEIGE: #F5EFD2
-NARANJA: #F1C27B
+ORANGE: #F1C27B
 */
 
-/*PAGINA 1*/
+/*PAGE 1*/
 /*Navigation*/
 .navbar {
     background-color: #F5EFD2;
@@ -17,7 +17,8 @@ NARANJA: #F1C27B
 }
 
 /*Hero*/
-body, html {
+body,
+html {
     height: 100%;
 }
 
@@ -25,7 +26,7 @@ body, html {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), url(img_banner1.png));
 }
 
-/*Boton cotizar principal*/
+/*Main Action Button*/
 #botonprincipal {
     display: flex;
     justify-content: center;
@@ -34,17 +35,18 @@ body, html {
     background-color: #F5EFD2;
 }
 
-/*Sitios paradisiacos, cards*/
-.card-body .btn{
+/*Cards*/
+.card-body .btn {
     background-color: #015238;
     color: #F5EFD2;
 }
-.card-body .btn:hover{
+
+.card-body .btn:hover {
     background-color: #F5EFD2;
     color: #015238;
 }
 
-/*Lista*/
+/*List*/
 .lista {
     display: flex;
     justify-content: center;
@@ -58,13 +60,13 @@ a:hover {
     color: #BCCAAE;
 }
 
-/*Contacto*/
+/*Contact*/
 .dato {
     display: flex;
     justify-content: center;
 }
 
-/*Horarios*/
+/*Schedules*/
 .horarios {
     display: flex;
     justify-content: center;
@@ -76,9 +78,9 @@ footer {
     background-color: #015238;
 }
 
-/* PAGINA 3 */
-/* Estilo del formulario */
-#cotizaciones-form{
+/* PAGE 3 */
+/* Form style */
+#cotizaciones-form {
     background-color: white;
     font-size: 16px;
     display: block;
@@ -88,7 +90,8 @@ footer {
     border-radius: 10px;
     border: 1px solid #015238;
 }
-.pag3-title{
+
+.pag3-title {
     margin-top: 45px;
     margin-bottom: 45px;
     font-size: 30px;
@@ -100,7 +103,7 @@ footer {
     margin: 20px 0;
 }
 
-/* Boton */
+/* Button */
 .btn-formulario .btn {
     width: 25%;
     margin: 10px 340px;
@@ -109,6 +112,98 @@ footer {
     font-size: 1.2em;
     cursor: pointer;
 }
+
 .btn-formulario .btn:hover {
     background-color: #015238;
-} 
+}
+
+/* Map styles */
+.mapouter {
+    position: relative;
+    text-align: right;
+    width: 100%;
+    height: 400px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    width: 100%;
+    height: 400px;
+}
+
+.gmap_iframe {
+    height: 400px !important;
+}
+
+#mapa {
+    position: relative;
+}
+
+#toggleButton {
+    position: absolute;
+    top: 10px;
+    left: 25px;
+    font-size: 14px;
+    z-index: 9999;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+#toggleButton button {
+    border: none;
+}
+
+#toggleButton button:first-child {
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-right: 1px solid black;
+}
+#toggleButton button:last-child {
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+#toggleButton button.active {
+    background-color: lightblue;
+}
+
+#products .wraper-header {
+    margin: 30px auto;
+    padding-top: 20px;
+}
+
+#products .swiper-slide {
+    text-align: center;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+}
+
+#products .productImage{
+    max-height: 350px;
+    height: 350px;
+    object-fit: cover;
+}
+
+#products .price-wraper {
+    text-align: left;
+    padding: 10px 20px;
+}
+
+#products .product-name {
+    margin: 10px auto;
+}
+
+#products .real-price {
+    color: #1e1e1e;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#products .price {
+    margin-left: 30px;
+    color: #3e3e3e;
+    font-size: 16px;
+    text-decoration: line-through;
+}
