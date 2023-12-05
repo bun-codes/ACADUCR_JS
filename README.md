@@ -3,8 +3,8 @@
 ### Bellezas Turísticas de Costa Rica
 
 Estudiantes:
-* Ariel
-* Natalia
+* Cambronero Bonilla Nathalia Andrea
+* Sibaja Ugalde Ariel Andrés
 * Soto Rojas Nathalie Cristina
 
 Academia de Tecnología UCR, Certificación Profesional en Front-End
