@@ -30,6 +30,6 @@ https://elevation.maplogs.com/poi/parque_nacional_manuel_antonio_provincia_de_pu
 
 ### INSTRUCCIONES
 - Utilizar HTML, CSS y JavaScript (25 pts) ✔️
-- JavaScript debe utilizar al menos una vez cada una de las siguientes estructuras: if else, for, while, arrays (25 pts)
-- Utilice JQUERY para mostrar información en el sitio web de acuerdo a la temporada en la que el usuario esté viendo la página (25 pts)
-- Utilice AJAX para obtener información de un archivo JSON utilizándolo, por ejemplo, para listar diferentes artículos con su precio y disponibilidad (25 pts)
+- JavaScript debe utilizar al menos una vez cada una de las siguientes estructuras: if else, for, while, arrays (25 pts) ✔️
+- Utilice JQUERY para mostrar información en el sitio web de acuerdo a la temporada en la que el usuario esté viendo la página (25 pts) ✔️
+- Utilice AJAX para obtener información de un archivo JSON utilizándolo, por ejemplo, para listar diferentes artículos con su precio y disponibilidad (25 pts) ✔️
