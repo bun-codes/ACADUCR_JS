@@ -13,7 +13,7 @@ Módulo 2: JavaScript
 
 Profesor William Morales
 
-Entrega: 07 de diciembre del 2023
+Entrega: 05 de diciembre del 2023
 
 ### Créditos:
 Base de Proyecto Módulo 1: HTML y CSS
